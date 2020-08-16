@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+<form id="theForm" method="post" acion="">
+<input type="firstname" value="" required />
+<input type="lastname" value="" required />
+<input type="submit" name="submit" value="Submit" />  
+</form>
+</body>
+</html>
